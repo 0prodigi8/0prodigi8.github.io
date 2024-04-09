@@ -1,0 +1,82 @@
+
+#LandingPage501{
+	height: 40vh;
+	width: 100%;
+	background: #EFEFEF;
+}
+#LandingPage502{
+	height: 60vh;
+	width: 100%;
+
+	background: #EFEFEF;
+
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+/* Imagen */
+#Img_Land_Centro{
+	height:60vh;
+}
+
+/* Contenido */
+#div_land_1{
+	height: 10%;
+	width: 100%;
+	display: flex;
+
+  	justify-content: center;
+  	align-items: center
+
+}
+#div_land_2{
+	height: 45%;
+	width: 100%;
+
+	text-align: center;
+	font-size: 120px;
+	color: #22223A;
+}
+#div_land_2 img{
+	width: 30%;
+
+}
+#div_land_3{
+	height: 25%;
+	width: 100%;
+
+	text-align: center;
+	display: flex;
+  	justify-content: center;
+  	align-items: center
+}
+#div_land_3 p{
+	font-size: 50px;
+	color: #22223A;
+
+}
+#div_land_3 div{
+	width: 90%;
+}
+
+#div_land_4{
+	height: 20%;
+	width: 100%;
+
+	display: flex;
+  	justify-content: center;
+  	align-items: center
+}
+
+#Btn_accion{
+	width: 40%;
+	height: 60%;
+
+	border: none;
+	border-radius: 50px;
+	background: #22223A;
+
+	color: #ffff;
+	font-size: 2vh;
+}
