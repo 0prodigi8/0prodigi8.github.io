@@ -15,6 +15,11 @@
   	align-items: center;
 }
 
+/* Imagen */
+#Img_Land_Centro{
+	height:60vh;
+}
+
 /* Contenido */
 #div_land_1{
 	height: 10%;
